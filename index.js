@@ -1,3 +1,5 @@
-var kittens = [] //define your array here
-
+var kittens = ["Milo", "Otis", "Garfield"] //define your array here
+function  destructivelyAppendKitten("name") = {
+  pop("Ralph")
+}
 // Add your functions and code here
